@@ -6,7 +6,7 @@ split xml files into sigle .txt file based on their tags and merge .txt files in
 ###split *.xml* file
 invoke the bash shell under linux and go the reposity directory.
 input the command to split the *L1220.xml* file under the *demo* directory, and it will generated a folder named *note*.
-'python3 spmergy.py s ./demo/L1220.xml'
+`python3 spmergy.py s ./demo/L1220.xml`
 ###merge the files 
 merge the files under the *./note/L1220* directory into a sigle *.xml* file for overall edit
-'python3 spmergy.py m ./note/L1220'
+`python3 spmergy.py m ./note/L1220`
