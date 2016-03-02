@@ -10,4 +10,5 @@ input the command to split the *L1220.xml* file under the *demo* directory, and 
 `python3 spmergy.py s ./demo/L1220.xml`
 ###merge the files 
 merge the files under the *./note/L1220* directory into a sigle *.xml* file for overall edit
+
 `python3 spmergy.py m ./note/L1220`
