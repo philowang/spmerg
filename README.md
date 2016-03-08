@@ -12,3 +12,5 @@ input the command to split the *L1220.xml* file under the *demo* directory, and 
 merge the files under the *./note/L1220* directory into a sigle *.xml* file for overall edit
 
 `python3 spmergy.py m ./note/L1220`
+#QT
+The letter ‘Q’ was chosen as the class prefix because the letter looked beautiful in Haavard’s Emacs font. The ‘t’ was added to stand for “toolkit”, inspired by Xt, the X Toolkit. The company was incorporated on March 4, 1994, originally as Quasar Technologies, then as Troll Tech, and today as Trolltech.[A Brief History of Qt](http://my.safaribooksonline.com/0131872494/pref04)
